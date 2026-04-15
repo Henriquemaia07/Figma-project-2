@@ -46,7 +46,7 @@ Reduzir filas, tempos de espera e burocracia no acesso a serviços públicos, of
 
 O layout e os fluxos de navegação foram prototipados no **Figma**.
 
-🔗 [Acessar protótipo no Figma](https://www.figma.com/design/3rd2C6U258jjwOMAWnx9ar/Untitled?node-id=0-1&p=f&t=WnRMU6MATbHsgOYS-0)
+🔗 [Acessar protótipo no Figma](https://www.figma.com/proto/3rd2C6U258jjwOMAWnx9ar/Untitled?node-id=1-73&p=f&t=DCv9jkaa7Jm1Wx3g-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A73&show-proto-sidebar=1)
 
 ---
 
